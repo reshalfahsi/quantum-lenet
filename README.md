@@ -49,7 +49,7 @@ Here, the qualitative results are laid out in the image grid format.
 If you think this repository is helpful for your research, you may cite it:
 
 ```
-@misc{mobilenet-llama3,
+@misc{quantum-lenet,
    title = {Image Recognition with Quantum LeNet},
    url = {https://github.com/reshalfahsi/quantum-lenet},
    author = {Resha Dwika Hefni Al-Fahsi},
