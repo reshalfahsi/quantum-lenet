@@ -44,6 +44,19 @@ Here, the qualitative results are laid out in the image grid format.
 <p align="center"> <img src="https://github.com/reshalfahsi/quantum-lenet/blob/master/assets/qualitative.png" alt="qualitative" > <br /> Nine of ten MNIST digits have their corresponding input images along with the predicted and ground-truth labels exposed to view. </p>
 
 
+## Citation
+
+If you think this repository is helpful for your research, you may cite it:
+
+```
+@misc{mobilenet-llama3,
+   title = {Image Recognition with Quantum LeNet},
+   url = {https://github.com/reshalfahsi/quantum-lenet},
+   author = {Resha Dwika Hefni Al-Fahsi},
+}
+```
+
+
 
 ## Credit
 
